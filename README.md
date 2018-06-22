@@ -1,4 +1,4 @@
-# Treasure Hunt with Bare Conductive
+# Treasure Hunt
 A fun and interactive activity to help kids learn about conductive materials.
 
 Made in collaboration with Fiona Fox and [Daniel Dallago](www.danieldallago.com) for kid's day 🎈. 
