@@ -19,7 +19,7 @@ Made in collaboration with Fiona Fox and [Daniel Dallago](www.danieldallago.com)
 ![Electric Ink Reference](https://github.com/ruieduardonunes/treasure-hunt/blob/master/01-Map/02-Map_How_To.png)
 
 3. While the ink dries, move over to the Touch Board. Upload this code provided by the team at Bare Conductive (Thanks!).
-4. Upload the audio files to the Touch Board memory card. If you're changing the files, make sure they keep the same name. Each file is associated with an electrode in the board so that TRACK001.mp3 will play when you touch the electrode 01.
+4. Upload the audio files to the Touch Board memory card. If you're changing the files, make sure they keep the same name. Each file links to an electrode in the board so that TRACK001.mp3 plays when you touch the electrode 01.
 5. Connect each alligator wire to the board and plug the speaker as well. Turn the board on and press reset. After the LED light stops blinking touch one of the circles in the map to test it out.
 
 
