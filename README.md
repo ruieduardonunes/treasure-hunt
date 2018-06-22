@@ -9,7 +9,7 @@ Made in collaboration with Fiona Fox and [Daniel Dallago](www.danieldallago.com)
 - A Bare Conductive Touch Board and Electric Paint. *You can get them [here](https://www.bareconductive.com/shop/)*;
 - Ten alligator wires;
 - A speaker;
-- Conductive objects - we've used [this](https://github.com/ruieduardonunes/treasure-hunt/blob/master/02-Sound_Files/Riddles.txt) ones for our riddles;
+- Conductive objects - we've used [this](https://github.com/ruieduardonunes/treasure-hunt/blob/master/02-Sound_Files/Riddles.md) ones for our riddles;
 - Prizes 🍭! 
 
 ## How To
