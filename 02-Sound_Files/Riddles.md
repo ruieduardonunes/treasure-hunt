@@ -2,7 +2,7 @@
 
 These are the clues we recorded and their corresponding conductive objects.
 
-1. Plant or leaf
+### 1. Plant or leaf
 
 	This thing’s not a human body
 	But it often has some veins
@@ -10,7 +10,7 @@ These are the clues we recorded and their corresponding conductive objects.
 	On evergreens it remains
 
 
-2. Apple
+### 2. Apple
 
 	This is something that grows on a tree
 	It is a fruit that is green or red
@@ -18,14 +18,14 @@ These are the clues we recorded and their corresponding conductive objects.
 	When one of these fell on Newton’s head
 
 
-3. A glass of water
+### 3. A glass of water
 
 	I go solid in freezers
 	In rivers I can flow
 	My chemical formula
 	Is known as H2O
 
-4. Gold (we used a ring)
+### 4. Gold (we used a ring)
 
 	Comething very shiny
 	And is a valuable metal
@@ -33,7 +33,7 @@ These are the clues we recorded and their corresponding conductive objects.
 	It’s the color of your medal
 
 
-5. Thumb 
+### 5. Thumb 
 
 	It is shorter than the rest 
 	but when you are happy 
@@ -41,7 +41,7 @@ These are the clues we recorded and their corresponding conductive objects.
 	It’s the best
 
 
-6. A key
+### 6. A key
 
 	Although I’m not a diamond
 	I get put on a ring
@@ -49,7 +49,7 @@ These are the clues we recorded and their corresponding conductive objects.
 	A lock is opening
 
 
-7. Coin
+### 7. Coin
 
 	Although I am not a salad
 	I am something that can be tossed
@@ -57,7 +57,7 @@ These are the clues we recorded and their corresponding conductive objects.
 	I might be used to pay its cost
 
 
-8. Fork
+### 8. Fork
 
 	I have four legs,
 	but I don’t have feet
