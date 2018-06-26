@@ -6,7 +6,7 @@ Made in collaboration with Fiona Fox and [Daniel Dallago](www.danieldallago.com)
 ## What you'll need
 - A treasure map. You can download this [one](https://github.com/ruieduardonunes/treasure-hunt/blob/master/01-Map/01-Map_Print.pdf) we've made earlier;
 - Voice recordings of the riddles. You can record your own, or use [this](https://github.com/ruieduardonunes/treasure-hunt/tree/master/02-Sound_Files);
-- A Bare Conductive Touch Board and Electric Paint. *You can get them [here](https://www.bareconductive.com/shop/)*;
+- A Bare Conductive Touch Board and Electric Paint. You can get them [here](https://www.bareconductive.com/shop/);
 - Ten alligator wires;
 - A speaker;
 - Conductive objects - we've used [this](https://github.com/ruieduardonunes/treasure-hunt/blob/master/02-Sound_Files/Riddles.md) ones for our riddles;
